@@ -1,0 +1,234 @@
+body{
+    background: #f26464;
+}
+
+.container{
+    width: 900px;
+    margin: 0px auto;
+}
+.clear{
+    clear: both;
+}
+.logo{
+    display: inline-block;
+    float: left;
+}
+.logo h1{
+    margin: 0px;
+    color: white
+}
+.logo h1 span{
+    color: gainsboro;
+}
+.search{
+    margin-left: 20px;
+    display: inline-block;
+}
+.search input{
+    width: 340px;
+    height: 27px;
+    outline: none;
+    border: none;
+}
+.search .search_button{
+    background: white;
+    height: 29px;
+    border: none;
+    margin-left: -5px;
+}
+.search .search_button img{
+    width: 16px;
+    height: 12px;
+}
+.upload_button{
+    margin-left: 20px;    
+    display: inline-block;
+}
+.upload_button button{
+    height: 28px;
+    background: white;    
+    border: none;
+}
+.upload_button button img{
+    height: 13px;
+    width: 16px;
+}
+.profile_image{
+    margin-left: 20px;    
+    display: inline-block;           
+}
+.profile_image button{
+    height: 28px;
+    background: white;
+    border: none;    
+}
+.profile_image button img{
+    height: 13px;
+    width: 16px;
+}
+.profile_name{
+    margin-left: 20px;    
+    display: inline-block; 
+    vertical-align: middle;   
+}
+.profile_name h4{
+    margin: 0px;
+}
+.profile_name h4 span{
+    background: white;
+    border-radius: 50%;
+    width: 10px;
+    height: 12px;
+    display: inline-block;
+}
+.profile_name p{
+    font-size: 13px;
+    margin: 0px;
+}
+.navbar_right{
+    float: right;        
+}
+ul{
+    padding-left: 0px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+ ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 35px;
+    color: white;
+}
+ul li span{
+    margin-left: 20px;
+}
+
+.first{
+margin-top: 20px;
+}
+.first .birinci{
+ 
+    
+    width: 350px;
+    height: 500px;
+    display: inline-block;
+}
+.first .birinci .sozleri h2{
+float: left;
+margin: 0px;
+}
+.first .birinci .sozleri p{
+    float: right;
+margin: 7px;
+    
+    }
+.first .birinci .yuxari{
+    width: 100%;
+    height: 307px;
+    background: white;
+ margin-top: 7px;
+    
+}
+.first .birinci .ashagi{
+    width: 100%;
+    height: 136px;
+    
+ margin-top: 17px;
+    
+}
+.first .birinci .ashagi .sol{
+    width: 165px;
+    height: 135px;
+    background: white;
+    float: left;
+}
+.first .birinci .ashagi .sag{
+    width: 165px;
+    height: 135px;
+    background: white;
+    float: right; 
+}
+.first .ikinci{
+    margin-left: 10px;
+    
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    
+}
+.first .uchuncu{
+    margin-left: 10px;
+    
+    width: 320px;
+    height: 500px; 
+    display: inline-block;
+       
+}
+.first .ikinci .ikinci_cont .item{
+    background-color: white;
+    width: 200px;
+    height: 135px;
+    margin-top: 20px;
+    
+}
+.first .ikinci .ikinci_cont {
+    margin-top: 54px;
+}
+.uchuncu .ucuncu_sozler h2{
+    float: left;
+    margin: 0px;
+}
+.uchuncu .ucuncu_sozler p{
+    float: right;
+    margin: 7px;
+}
+.uchuncu .bloc{
+    height: 460px;
+    width: 100%;
+    border-top: 5px solid white;
+    border-bottom: 3px solid white;
+    
+}
+.uchuncu .bloc .element{
+    width: 100%;
+    height: 60px;
+    margin-top: 15px;
+}
+.uchuncu .bloc .element .vid{
+    background: white;
+    width: 100px;
+    height: 60px;
+    float: left;
+}
+.uchuncu .bloc .element .vid_text{
+    background: white;
+    width: 207px;
+    height: 60px;
+    float: right;
+}
+
+.uchuncu .bloc1{
+    height: 540px;
+    width: 100%;
+    border-top: 5px solid white;
+    border-bottom: 3px solid white;
+    
+}
+.uchuncu .bloc1 .element1{
+    width: 100%;
+    height: 92px;
+    margin-top: 15px;
+}
+.uchuncu .bloc1 .element1 .sos{
+    background: white;
+    width: 152px;
+    height: 85px;
+    float: left;
+}
+.uchuncu .bloc1 .element1 .sos_text{
+    background: white;
+    width: 152px;
+    height: 85px;
+    float: right;
+}
